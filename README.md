@@ -61,6 +61,10 @@ Run tests with coverage:
 ```bash
 pytest --cov=src --cov-report=term-missing
 ```
+Run tests with coverage and verbose:
+```bash
+pytest -v --cov=src --cov-report=term-missing
+```
 Run a specific test file:
 ```bash
 pytest tests/test_example.py
