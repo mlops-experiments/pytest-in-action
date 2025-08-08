@@ -22,7 +22,7 @@ This repo contains simple to advanced examples, best practices, and real-world t
 ```
 pytest-in-action/
 │
-├── src/ # Example Python code to test
+├── src/pytest-in-action/ # Example Python code to test
 ├── tests/ # Pytest test cases
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
